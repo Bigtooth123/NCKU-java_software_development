@@ -6,4 +6,4 @@ This repository contains the final project for the 2024 NCKU Java Software Devel
 
 - 40-Line Challenge Mode – A time-based challenge where players must clear 40 lines as quickly as possible.
 
-The game is developed with object-oriented programming (OOP) principles and follows best practices in Java development.
+The game is developed with object-oriented programming (OOP) principles
